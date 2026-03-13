@@ -31,7 +31,7 @@ nav { display:flex; gap:10px; }
 .btn-primary:hover { background:#cc7a00; }
 main { padding:100px 20px 20px; }
 section.hero { text-align:center;
-background: tranparent;
+background:tranparent;
 padding: 40px;
 border-radius: 10px;
 }
