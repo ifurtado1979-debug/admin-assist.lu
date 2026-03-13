@@ -70,21 +70,21 @@ padding: 10px;
 }
 
 .accueil{
-background-image:url("fond-accueil.png.jpg");
+background-image:url("fond-accueil.png");
 background-size:cover;
 background-position:center;
 background-attachment:fixed;
 }
 
 .services{
-background-image:url("Fond-services.png.jpg");
+background-image:url("Fond-services.png");
 background-size:cover;
 background-position:center;
 background-attachment:fixed;
 }
 
 .contact{
-background-image:url("Fond-contact.png.jpg");
+background-image:url("Fond-contact.png");
 background-size:cover;
 background-position:center;
 background-attachment:fixed;
