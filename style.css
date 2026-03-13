@@ -58,9 +58,6 @@ flex-direction: column;
 .btn-primary {
 display: none;
 }
-.hero .btn {
-display: none;
-}
 
 main {
 flex: 1;
