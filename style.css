@@ -71,7 +71,7 @@ padding: 10px;
 }
 
 .accueil{
-background-image:url("Fond-contact.png");
+background-image:url("fond-accueil.png");
 background-size:cover;
 background-position:center;
 background-attachment:fixed;
@@ -79,6 +79,13 @@ background-attachment:fixed;
 
 .services{
 background-image:url("Fond-services.png");
+background-size:cover;
+background-position:center;
+background-attachment:fixed;
+}
+
+.contact{
+background-image:url("Fond-contact.png");
 background-size:cover;
 background-position:center;
 background-attachment:fixed;
