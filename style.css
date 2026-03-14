@@ -101,3 +101,11 @@ color:#003366;
 .contact .btn{
 color:#003366;
 }
+
+.services-text {
+text-align: center;
+color: white;
+font-weight: bold;
+margin-top: 20px;
+font-size: 28px;
+}
