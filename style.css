@@ -25,6 +25,7 @@ margin-left:10px;
 header h1 { margin:0; font-size:24px; }
 nav { display:flex; gap:10px; }
 .btn { text-decoration:none; color:white; padding:8px 15px; background:transparent; border-radius:4px; }
+.btn:hover { background:#003366; }
 .btn-primary { background:#ff9900; color:white; }
 .btn-primary:hover { background:#cc7a00; }
 main { padding:100px 20px 20px; }
@@ -90,22 +91,5 @@ background-attachment:fixed;
 }
 
 .contact-form{
-margin-top:150px;
-}
-
-header h1{
-color:#003366;
-}
-
-.btn{
-color:#003366;
-}
-
-.btn:hover { 
-background:#003366;
-color:white;
-}
-
-footer{
-color:#003366;
+margin-top:250px;
 }
