@@ -11,7 +11,7 @@ background: transparent;
 padding:20px;
 border-radius:10px;
 }
-header { background:transparent; color:white; position:fixed; width:100%; top:0; left:0; z-index:1000; }
+header { background:transparent; color:white:bold; position:fixed; width:100%; top:0; left:0; z-index:1000; }
 header .container { 
 display:flex;
 align-items:center;
@@ -24,9 +24,9 @@ margin-left:10px;
 }
 header h1 { margin:0; font-size:24px; }
 nav { display:flex; gap:10px; }
-.btn { text-decoration:none; color:white; padding:8px 15px; background:transparent; border-radius:4px; font-weight:bold; }
+.btn { text-decoration:none; color:white:bold; padding:8px 15px; background:transparent; border-radius:4px; font-weight:bold; }
 .btn:hover { background:#003366; }
-.btn-primary { background:#ff9900; color:white; }
+.btn-primary { background:#ff9900; color:white:bold; }
 .btn-primary:hover { background:#cc7a00; }
 main { padding:100px 20px 20px; }
 section.hero { text-align:center;
@@ -65,7 +65,7 @@ flex: 1;
 footer {
 margin-top: auto;
 text-align: center;
-color: white:600;
+color: white:bold;
 padding: 10px;
 }
 
