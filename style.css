@@ -113,6 +113,8 @@ margin-bottom: 30px;
 
 .services ul {
 text-align: center;
+color:white;
+font-weight: bold;
 list-style: none;
 padding: 0;
 font-size: 20px;
