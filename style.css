@@ -128,3 +128,8 @@ margin-bottom: 10px;
 main section {
 margin-top: 80px;
 }
+
+footer p {
+font-weight: bold;
+text-align: center;
+}
