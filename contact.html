@@ -29,11 +29,18 @@
 <p>📍 Luxembourg</p>
 <p>📧 Email : <a href="mailto:contact@admin-assist.lu">contact@admin-assist.lu</a></p>
 <p>📞 Téléphone : <a href="tel:+352621374708">+352 621 374 708</a></p>
-<form>
-<input type="text" placeholder="Votre nom" required><br>
-<input type="email" placeholder="Votre email" required><br>
-<textarea placeholder="Votre message" required></textarea><br>
+<form action="https://formspree.io/f/meednjen" method="POST">
+
+<input type="text" name="name" placeholder="Votre nom" required><br>
+
+<input type="email" name="email" placeholder="Votre email" required><br>
+
+<textarea name="message" placeholder="Votre message" required></textarea><br>
+
+<input type="hidden" name="_subject" value="Nouveau message ISA Assistance">
+
 <button type="submit">Envoyer</button>
+
 </form>
 </section>
 </main>
