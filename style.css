@@ -135,3 +135,6 @@ footer p {
 font-weight: bold;
 text-align: center;
 }
+h1, h2, h3, p, li {
+color: white;
+}
